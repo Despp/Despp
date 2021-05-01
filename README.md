@@ -2,7 +2,7 @@
 
 - I’m currently learning HTML, CSS, JS, NODE.JS, and LUA
 
-- How to reach me: DespBusiness@gmail.com
+- How to reach me: Despbusiness@gmail.com
 
 <!--
 **Despp/Despp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
