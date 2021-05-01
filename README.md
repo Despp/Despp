@@ -1,4 +1,4 @@
-### Hi there 👋|
+### Hey 
 
 - I’m currently learning HTML, CSS, JS, NODE.JS, and LUA
 
