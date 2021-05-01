@@ -1,6 +1,6 @@
 ### Hey 
 
-- I’m currently learning HTML, CSS, JS, NODE.JS, JAVA, and LUA
+- I’m currently learning HTML, CSS, JS, NODE.JS, and LUA
 
 - How to reach me: Despbusiness@gmail.com
 
